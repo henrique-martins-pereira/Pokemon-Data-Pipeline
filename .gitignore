@@ -1,0 +1,30 @@
+```gitignore
+# Banco de dados SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Arquivos de configuração e segredos
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+```
