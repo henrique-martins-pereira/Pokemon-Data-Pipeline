@@ -72,16 +72,6 @@ Após a conclusão da coleta e inserção, os dados ficam disponíveis no SQLite
 
 Isso permite explorar informações e desenvolver análises quantitativas sobre os atributos dos Pokémon.
 
-## Estrutura do projeto
-
-```text
-pokemon-data-pipeline/
-│
-├── pipeline_pokemon.py
-├── pokemons.db
-└── README.md
-```
-
 **Observação:** o arquivo `pokemons.db` é gerado durante a execução do projeto.
 
 ## Como executar
