@@ -89,7 +89,7 @@ pokemon-data-pipeline/
 ### 1. Clone o repositório
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/henrique-martins-pereira/Pokemon-Data-Pipeline
 ```
 
 ### 2. Entre na pasta
