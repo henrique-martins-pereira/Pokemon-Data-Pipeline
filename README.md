@@ -1,4 +1,4 @@
-Pokémon Data Pipeline | Python, PokéAPI e SQLite
+### Pokémon Data Pipeline | Python, PokéAPI e SQLite
 
 Sobre o projeto
 
@@ -6,7 +6,7 @@ Sobre o projeto
   O objetivo é demonstrar conhecimentos práticos em coleta de dados via API, manipulação de estruturas JSON, tratamento de informações e armazenamento em bancos de dados relacionais.
   O pipeline coleta informações de 1.025 Pokémon, incluindo seus tipos e atributos básicos, criando uma base de dados que pode ser utilizada posteriormente para consultas SQL e análises exploratórias.
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 Python: desenvolvimento e execução do pipeline.
 Requests: consumo da API e obtenção dos dados.
@@ -14,7 +14,7 @@ SQLite3: criação e gerenciamento do banco de dados.
 PokéAPI: fonte externa dos dados.
 Time: controle do intervalo entre as requisições.
 
-##Funcionamento do pipeline
+## Funcionamento do pipeline
 
 O projeto segue um fluxo de processamento dividido em quatro etapas:
 
@@ -71,7 +71,7 @@ pokemon-data-pipeline/
 
 Observação: o arquivo pokemons.db é gerado durante a execução do projeto.
 
-##Como executar
+## Como executar
 
 1. Clone o repositório
 
@@ -120,7 +120,7 @@ FROM pokemons
 ORDER BY total_status DESC
 LIMIT 10;
 
-Objetivos de aprendizagem
+## Objetivos de aprendizagem
 
 Este projeto foi desenvolvido para praticar conceitos importantes da área de dados:
 
@@ -133,7 +133,7 @@ Este projeto foi desenvolvido para praticar conceitos importantes da área de da
 -Modelagem e armazenamento de dados.
 -Preparação de bases para análise exploratória.
 
-Fonte dos dados
+## Fonte dos dados
 
 Os dados utilizados neste projeto são disponibilizados publicamente pela PokéAPI.
 Documentação: https://pokeapi.co/
